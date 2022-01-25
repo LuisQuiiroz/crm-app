@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "test1",
+      "empresa": "test1",
+      "email": "test1@test.com",
+      "telefono": 1122334455,
+      "notas": "Nuevo bot xd\n",
+      "id": 1
+    },
+    {
+      "nombre": "test2",
+      "empresa": "test2",
+      "email": "test2@test.com",
+      "telefono": 6677889900,
+      "notas": "Nuevo bot xd\n",
+      "id": 2
+    },
+    {
+      "nombre": "test3",
+      "empresa": "test3",
+      "email": "test3@test.com",
+      "telefono": 1133557799,
+      "notas": "",
+      "id": 3
+    },
+    {
+      "nombre": "test4",
+      "empresa": "test4",
+      "email": "test4@test.com",
+      "telefono": 2244668800,
+      "notas": "Otro bot xD",
+      "id": 4
+    },
+    {
+      "nombre": "test5",
+      "empresa": "test5",
+      "email": "test5@test.com",
+      "telefono": 1597534826,
+      "notas": "",
+      "id": 5
+    }
+  ]
+}
